@@ -1,0 +1,7 @@
+INSERT_UPDATE Student;code[unique=true];fname;lname
+;A1;Sakshi;Parikh
+;A2;Mohammed;Baig
+;A3;Gustavo';Domiguez
+;A4;Keerthana;Gaikwad
+;A5;Alexander;Stefanovich
+;A6;Gautam;Kanda
